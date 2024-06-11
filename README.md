@@ -4,7 +4,7 @@
 The source code for the Wii version of nsc.ftolnks.xyz. Anyone can contribute. You can make your own backend, however it must be in PHP, because screw our hosting provider.
 ## Roadmap
 - [ ] Homepage
-- [ ] Wallpapers
+- [X] Wallpapers
 - [ ] Privacy Policy
 - [ ] Posts
 - [ ] Translations
