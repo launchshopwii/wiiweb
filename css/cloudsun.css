@@ -60,46 +60,6 @@ body {
 .monospace {
   font-family: monospace;
 }
-
-/* Bold, italic, strikethrough, and other stuff. */
-
-.text-bold {
-    font-weight: bold;
-}
-
-/* The code block, and it's colors.
- Uses monospace automatically so you won't have to do something like "code-block monospace". */
-
-.code-block {
-    background-color: #272727;
-    border: 1px solid #d1d1d1;
-    border-radius: 5px;
-    padding: 10px;
-    overflow-x: auto;
-    color: white;
-    font-family: monospace;
-}
-
-a {
-    color: #4287f5;
-}
-
-.code-php-purple {
-  color: #E5D4FF;
-}
-
-.code-php-yellow {
-  color: #FFFBD4;
-}
-
-.code-php-orange {
-  color: #FFB5A0;
-}
-
-.code-php-blue {
-  color: #9CCDFF;
-}
-
 /* Bootstrap-like alerts and its types. */
 
 .alert {
@@ -174,12 +134,10 @@ a {
     color: #000;
 }
 
-.btn-rounded {
-    border-radius: 20px;
-}
-
-.btn-squared {
-    border-radius: 0px;
+/* White Button */
+.btn-white {
+    background-color: #fff;
+    color: #000;
 }
 
 /* Padding, margin, and more */
@@ -636,6 +594,29 @@ a {
   padding: 1rem;
 }
 
+/* Homepage stuff */
+        .header-img {
+            display: inline-block;
+        }
+        .header-text {
+            display: inline-block;
+            font-size: 1.5em;
+        }
+
+/* Gallery */
+        .gallery-img {
+            width: 150px;
+            height: auto;
+            margin: 10px;
+        }
+        .gallery-container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .gallery-text {
+            display: inline-block;
+            flex-wrap: wrap;
+        }
 /* The end.
 Consider contributing to https://github.com/newshopchannel/wiiweb!
 */
