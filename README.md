@@ -6,8 +6,8 @@ You can make your own backend, however it must be in PHP, because screw our host
 ## Roadmap
 - [ ] Homepage
 - [X] Wallpapers
-- [ ] Privacy Policy
-- [ ] Posts
+- [X] Privacy Policy
+- [X] Posts
 - [ ] Translations
 
 ## Rules
