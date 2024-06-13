@@ -1,23 +1,22 @@
-> [!NOTA]
-> Questo è il codice sorgente del sito che puoi trovare [qui](http://wii.ftolnks.xyz). Il file CSS in uso è stato preso dalla repository Cloudsun di @trlandrew e non ha documentazione. Se vuoi dargli una mano con il frontend, contattalo su Discord.
+> [!NOTE]
+> This is the current source code that's hosted [here](http://wii.ftolnks.xyz). The CSS that's being used is taken from @trlandrew's cloudsun repository and has no documentation. If you'd like to get some help with the frontend, contact him on Discord.
 
 # <img src="/img/Logo.png" width="38"/> wiiweb
 
-Questo è il codice sorgente per la versione Wii del nostro sito, nsc.ftolnks.xyz. Chiunque può contribuire!
-Puoi creare il tuo backend, però deve essere in PHP. (Ringrazia il nostro hosting provider)
+This is the source code for the Wii version of our main website, nsc.ftolnks.xyz. Anyone can contribute to this!
+You can make your own backend, however it must be in PHP, because screw our hosting provider.
+FOR EVERYONE: when making new files or editing existing ones, do it INSIDE the folder translations/(languagehere). If not, those files will NOT be translated with Crowdin. Thanks!
 
-AVVISO PER TUTTI: quando si editano dei file o se ne creano di nuovi, fatelo DENTRO la cartella translations/(linguaqui). Sennò, quei file NON saranno tradotti con Crowdin. Grazie!
-
-## Checklist
+## Roadmap
 
 - [ ] Homepage
-- [x] Sfondi
-- [x] Politica sulla Privacy
-- [x] Post
-- [ ] Traduzioni
+- [x] Wallpapers
+- [x] Privacy Policy
+- [x] Posts
+- [ ] Translations
 
-## Regole
+## Rules
 
-1. Non usare ChatGPT.
+1. No ChatGPT
 
-Tutto qua!
+That's all!
