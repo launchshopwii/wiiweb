@@ -6,7 +6,7 @@ include($_SERVER['DOCUMENT_ROOT'].'/elements/head.php');
 <body class="body-dark">
     <div class="container pt-5">
         <h1>
-            <img src="img/Logo.png" width="56" class="header-img" rel="preload" alt="Logo">
+            <img src="img/Logo_Wii_sm.png" width="56" class="header-img" rel="preload" alt="Logo">
             <span class="header-text">New Shop Channel</span>
         </h1>
         <div class="content">
