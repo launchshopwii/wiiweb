@@ -6,6 +6,8 @@
 This is the source code for the Wii version of our main website, nsc.ftolnks.xyz. Anyone can contribute to this!
 You can make your own backend, however it must be in PHP, because screw our hosting provider.
 
+FOR EVERYONE: when making new files or editing existing ones, do it INSIDE the folder translations/(languagehere). If not, those files will NOT be translated with Crowdin. Thanks!
+
 ## Roadmap
 
 - [ ] Homepage
