@@ -1,26 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title>Gallery</title>
-    <link href="css/cloudsun.css" rel="stylesheet">
-    <style>
-        .gallery-img {
-            width: 150px;
-            height: auto;
-            margin: 10px;
-        }
-        .gallery-container {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        .gallery-text {
-            display: inline-block;
-            flex-wrap: wrap;
-        }
-
-    </style>
-</head>
+<?php
+$title = "Gallery";
+include($_SERVER['DOCUMENT_ROOT'].'/elements/head.php'); ?>
 
 <body class="body-dark">
     <div class="container pt-5">
