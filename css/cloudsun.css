@@ -594,6 +594,15 @@ body {
   padding: 1rem;
 }
 
+/* Homepage stuff */
+        .header-img {
+            display: inline-block;
+        }
+        .header-text {
+            display: inline-block;
+            font-size: 1.5em;
+        }
+
 /* The end.
 Consider contributing to https://github.com/newshopchannel/wiiweb!
 */
