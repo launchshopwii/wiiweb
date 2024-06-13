@@ -1,29 +1,10 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title>Gallery</title>
-    <link href="css/cloudsun.css" rel="stylesheet">
-    <style>
-        .gallery-img {
-            width: 150px;
-            height: auto;
-            margin: 10px;
-        }
-        .gallery-container {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        .gallery-text {
-            display: inline-block;
-            flex-wrap: wrap;
-        }
-
-    </style>
-</head>
+<?php
+$title = "Gallery";
+include($_SERVER['DOCUMENT_ROOT'].'/elements/head.php'); ?>
 
 <body class="body-dark">
     <div class="container pt-5">
+        <a href="btn btn-white" onclick="history.back()">Back</a>
         <h1>Gallery</h1>
         <div class="gallery-container">
             <img src="img/Logo.png" class="gallery-img" alt="New Shop Channel's Logo">
@@ -35,7 +16,6 @@
         <p style="margin-left: 100px;" class="gallery-text">Wallpaper 1</p>
         <p style="margin-left: 75px" class="gallery-text">Wallpaper 2</p>
         <p style="margin-left: 80px;" class="gallery-text">Wallpaper 3</p>
-
         <div>
             <img src="img/wallpaper4.png" class="gallery-img" alt="Wallpaper 4">
             <img src="img/wallpaper5.png" class="gallery-img" alt="Wallpaper 5">
@@ -47,7 +27,6 @@
         <p style="margin-left: 80px" class="gallery-text">Wallpaper 6</p>
         <p style="margin-left: 75px;" class="gallery-text">Wallpaper 7</p>
         <br>
-        <a href="index.html" class="btn btn-primary">Home Page</a>
     </div>
 </body>
 </html>

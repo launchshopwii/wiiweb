@@ -1,27 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title>New Shop Channel</title>
-    <link href="css/cloudsun.css" rel="stylesheet">
-    <style>
-        .header-img {
-            display: inline-block;
-        }
-        .header-text {
-            display: inline-block;
-            font-size: 1.5em;
-        }
-    </style>
-</head>
+<?php
+$title = "Home";
+include($_SERVER['DOCUMENT_ROOT'].'/elements/head.php');
+?>
 
 <body class="body-dark">
     <div class="container pt-5">
-        <div class="alert alert-info">
-            Did you know that this website is <a href="source.html">open source?</a> Consider contributing!
-        </div>
         <h1>
-            <img src="img/Logo.png" width="56" class="header-img" rel="preload" alt="Logo">
+            <img src="img/Logo_Wii_sm.png" width="56" class="header-img" rel="preload" alt="Logo">
             <span class="header-text">New Shop Channel</span>
         </h1>
         <div class="content">
