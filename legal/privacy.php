@@ -30,6 +30,8 @@ include($_SERVER['DOCUMENT_ROOT'].'/elements/head.php'); ?>
         </p>    <p>Last Updated: <b>June 13, 2024</b></p>
         </div>
         </div>
+        <br>
+        <div align='center'><a href='../index.php' class='btn btn-primary'>Home Page</a></div>
     </div>
 </body>
 </html>
