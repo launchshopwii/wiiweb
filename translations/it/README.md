@@ -4,7 +4,7 @@
 # <img src="/img/Logo.png" width="38"/> wiiweb
 
 Questo è il codice sorgente per la versione Wii del nostro sito principale, nsc.ftolnks.xyz. Chiunque può contribuire!
-Puoi creare il tuo backend, ma deve essere fatto in PHP. Ringrazia il nostro hosting provider.
+Puoi creare il tuo backend, ma deve essere fatto in PHP.
 PER TUTTI: quando create nuovi file o editate quelli già esistenti, fatelo DENTRO la cartella translations/(linguaqui). In caso contrario, questi file NON saranno tradotti con Crowdin. Grazie!
 
 ## Checklist
