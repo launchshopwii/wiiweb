@@ -1,18 +1,19 @@
-> [!NOTA]
-> Este es el código que está hosteado [aqui.](http://wii.ftolnks.xyz). El CSS es @trlandrew's cloudsun CSS y no tiene documentacion. Si quieres tener alguna ayuda con el frontend, contactalo en Discord.
+> [!NOTE]
+> This is the current source code that's hosted [here](http://wii.ftolnks.xyz). The CSS that's being used is taken from @trlandrew's cloudsun repository and has no documentation. If you'd like to get some help with the frontend, contact him on Discord.
 
 # <img src="/img/Logo.png" width="38"/> wiiweb
 
-Este es el codigo de la versión Wii de la pagina web, nsc.ftolnks.xyz. Cualquiera puede contribuir!
-Puedes crear tu propio backend, sin embargo, debe ser en PHP, porque a la mierda con nuestro proveedor de hosting.
-PARA TODOS: cuando crees archivos nuevos o edites los existentes, hazlo DENTRO de la carpeta traducciones/(idioma aquí). De lo contrario, esos archivos NO se traducirán con Crowdin. Gracias!
+This is the source code for the Wii version of our main website, nsc.ftolnks.xyz. Anyone can contribute to this!
+You can make your own backend, however it must be in PHP, because screw our hosting provider.
 
-## Mapa
+FOR EVERYONE: when making new files or editing existing ones, do it INSIDE the folder translations/(languagehere). If not, those files will NOT be translated with Crowdin. Thanks!
 
-- [ ] página principal
-- [x] Fondos de pantalla
-- [x] Política de privacidad
-- [x] Publicaciones
+## Roadmap
+
+- [ ] Homepage
+- [x] Wallpapers
+- [x] Privacy Policy
+- [x] Posts
 - [ ] Translations
 
 ## Rules
