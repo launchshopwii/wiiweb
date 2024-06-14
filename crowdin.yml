@@ -5,4 +5,5 @@ files:
       - /elements
       - /img
       - /translations/it
+      - /errors
     translation: /translations/%two_letters_code%/%original_file_name%
