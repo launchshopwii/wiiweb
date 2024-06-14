@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <title><?= $title; ?> - New Shop Channel</title>
-    <link href="css/cloudsun.css" rel="stylesheet">
+    <link href="/css/cloudsun.css" rel="stylesheet">
 </head>
 
     <div class="alert alert-info">
