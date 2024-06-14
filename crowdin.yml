@@ -5,4 +5,11 @@ files:
       - /elements
       - /img
       - /translations/it
+      - /errors
+      - README.md
+      - LICENSE
+      - /translations/es
+      - /translations/de
+      - /translations/fr
+      - /translations/pl
     translation: /translations/%two_letters_code%/%original_file_name%
