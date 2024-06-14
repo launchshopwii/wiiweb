@@ -6,4 +6,6 @@ files:
       - /img
       - /translations/it
       - /errors
+      - README.md
+      - LICENSE
     translation: /translations/%two_letters_code%/%original_file_name%
