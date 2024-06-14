@@ -1,5 +1,5 @@
 <?php
-$title = "Gallery";
+$title = "Galleria";
 include($_SERVER['DOCUMENT_ROOT'].'/elements/head.php'); ?>
 
 <body class="body-dark">
