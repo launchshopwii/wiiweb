@@ -18,7 +18,7 @@ include($_SERVER['DOCUMENT_ROOT'].'/elements/head.php');
             <p>
                 This community-driven project relies on the support and contributions of dedicated fans and developers. Its availability could change, so please stay connected to the community channels for any updates, assistance, and announcements. Check us on one of our social media platforms below.
             </p>
-            <a href="/translations/en/gallery.php" class="btn btn-primary">Wallpapers</a>&nbsp;<a href="/translations/en/discord.php" style="margin-top: 10px" class="btn btn-primary">Discord</a>&nbsp;<a href="/translations/en/source.php" style="margin-top: 10px" class="btn btn-secondary">GitHub</a>&nbsp;<a href="/translations/en/blog.php" style="margin-top: 10px" class="btn btn-primary">Blog</a>&nbsp;<a href="/legal/privacy.php" class="btn btn-secondary">Privacy Policy</a>
+            <a href="gallery.html" class="btn btn-primary">Wallpapers</a>&nbsp;<a href="discord.html" style="margin-top: 10px" class="btn btn-primary">Discord</a>&nbsp;<a href="source.html" style="margin-top: 10px" class="btn btn-secondary">GitHub</a>&nbsp;<a href="blog.html" style="margin-top: 10px" class="btn btn-primary">Blog</a>&nbsp;<a href="privacypolicy.html" class="btn btn-secondary">Privacy Policy</a>
         </div>
     </div>
 </body>
