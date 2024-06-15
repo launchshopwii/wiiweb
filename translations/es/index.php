@@ -1,5 +1,5 @@
 <?php
-$title = "Casa";
+$title = "Home";
 include($_SERVER['DOCUMENT_ROOT'].'/elements/head.php');
 ?>
 
