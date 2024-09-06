@@ -1,5 +1,6 @@
 > [!WARNING]
 > This repository is a part of New Shop Channel, but is gonna be revived and used for LaunchShop, so please wait before contributing to this repository.
+
 > [!NOTE]
 > This is the current source code that's hosted [here](http://wii.ftolnks.xyz). The CSS that's being used is taken from @trlandrew's cloudsun repository and has no documentation. If you'd like to get some help with the frontend, contact him on Discord.
 # <img src="/img/Logo.png" width="38"/> wiiweb
